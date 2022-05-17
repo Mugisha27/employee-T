@@ -19,14 +19,11 @@ nmp packages used: The MySQL2 package to connect to your MySQL database and perf
 
     
 ## USAGE
-Will be used for my future development projects
-Through the console, logging in the index.js file in the terminal using node and answering to each prompted question to the corresponding answer.
-![Usage](images//Users/chrismugisha/Desktop/readm/images/title.png)
+
+![Usage]()
     
 ## LICENSE
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
 The license included for the project is under MIT License
 
 ## CHALLENGES FACED
