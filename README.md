@@ -29,6 +29,6 @@ Not much beside being somehow comfortable creating a project as such.
 
 ## QUESTIONS
 If you have any further questions about this module or improvement ideas, please feel free to connect on either GitHub or LinkedIn, or email me at:
-* GitHub: https://github.com/undefined
-* LinkedIn: undefined
+* GitHub: https://github.com/Mugisha27
+* LinkedIn: https://www.linkedin.com/in/chris-mugisha-b7120413b/
 * E-Mail: mondclear@gmail.com
