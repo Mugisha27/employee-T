@@ -8,19 +8,14 @@ A command-line application from scratch that manages a company's employee databa
 
 ## TABLE OF CONTENTS
 - [INSTALLATION](#installation)
-- [USAGE](#usage)
 - [LICENSE](#license)
 - [QUESTIONS](#questions)
 
 ## INSTALLATION
 nmp packages used: The MySQL2 package to connect to your MySQL database and perform queries, the Inquirer package to interact with the user via the command line, and the console.table package to print MySQL rows to the console.
                     
-![Installation]()
+![Installation](img/Untitled.png)
 
-    
-## USAGE
-
-![Usage]()
     
 ## LICENSE
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
